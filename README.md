@@ -1,17 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=FULL%20STACK%20DEVELOPER&fontSize=42&color=0:0d0015,40:2d1b69,70:4c1d95,100:6d28d9&fontColor=e9d5ff&stroke=a855f7&strokeWidth=1.5&animation=fadeIn&desc=⚡%20Building%20Modern%20Web%20Experiences%20⚡&descSize=16&descColor=c084fc&descAlignY=72&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=William&fontSize=50&fontColor=e9d5ff&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20🚀&descAlignY=58&descSize=18"/>
+
+# ⚔️ Full Stack Developer
+
+### Building modern web applications with MERN Stack
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=⚔️+Full+Stack+Developer;🌌+Crafting+Modern+Web+Apps;🔮+React+%7C+Node.js+%7C+MongoDB;⚡+MERN+Stack+Builder;🏆+Code+is+my+Weapon" alt="Typing SVG" />
-</a>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/⚔️_ROLE-FULL%20STACK%20DEVELOPER-FFD700?style=for-the-badge&labelColor=1a0033&color=0d0015" />
-&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-purple?style=for-the-badge)](https://sites.google.com/view/wiliiam-porto/home)
+
+</div>
+
+---
+
+# 🧠 About Me
+
+```js
+const william = {
+  username: "ren-nakamoto",
+  location: "Indonesia 🇮🇩",
+  role: "Full Stack Developer",
+  
+  techStack: {
+    frontend: ["React", "JavaScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"],
+  },
+
+  currentlyLearning: ["API Integration", "Next.js"],
+
+  funFact: "I turn coffee into code ☕"
+};
+```
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,mongodb,tailwind,git,github,vscode&theme=dark"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ren-nakamoto&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ren-nakamoto&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ren-nakamoto&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+- 🔨 Building MERN stack projects
+- 🌐 Learning API integration
+- ⚡ Improving frontend skills
+- 📚 Exploring modern web technologies
+
+---
+
+<div align="center">
+
+### ⚡ "Code. Build. Improve. Repeat."
+
+</div>&nbsp;
 <img src="https://img.shields.io/badge/✨_STATUS-ACTIVE-c084fc?style=for-the-badge&labelColor=0d0015&color=1a0033" />
 &nbsp;
 <img src="https://img.shields.io/badge/🔮_STACK-MERN%20STACK-7c3aed?style=for-the-badge&labelColor=0d0015&color=1a0033" />
